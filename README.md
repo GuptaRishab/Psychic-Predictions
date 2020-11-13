@@ -26,6 +26,6 @@ Sales forecasting is an essential component of consumer-oriented markets such as
    
 **In all cases, the report is structured to follow the same order in which the notebooks are preapred. Thus, when reading certain sections of the report, and more details are needed, the corresponding jupyter notebooks can be opened for more information.**
 
-- The "data" folder contains only the processed data outputted from the preprocessing jupyter notebook. For the raw Brazillian E-Commerce Datasets, please refer to the link here below.
+- The "data" folder contains only the processed data outputted from the preprocessing jupyter notebook. For the raw Brazilian E-Commerce Datasets, please refer to the link here below.
 
 https://drive.google.com/drive/folders/1mSexlU0YIlNayP3v_-Jwr-lCwPwk90Kn?usp=sharing
